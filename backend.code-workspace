@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "backend",
+			"path": "../backend"
+		},
+		{
+			"name": "Iac_20",
+			"path": "../../../../IaC/Iac_20"
+		}
+	],
+	"settings": {}
+}
